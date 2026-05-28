@@ -13,6 +13,17 @@ The state the agent sees each frame:
 
 The action space is 4 moves: up, down, left, right.
 
+## Training Results
+
+Before:
+
+<img width="638" height="510" alt="Screen Recording 2026-05-28 132551" src="https://github.com/user-attachments/assets/67bed9f2-3658-4228-a96f-cfb52e81d8f9" />
+
+After:
+
+<img width="636" height="514" alt="trained" src="https://github.com/user-attachments/assets/dd14c5aa-dc9e-432c-b9b2-0d45e0e54542" />
+
+
 ## Project structure
 
 ```
