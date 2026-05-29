@@ -17,7 +17,7 @@ The action space is 4 moves: up, down, left, right.
 
 Before:
 
-<img width="638" height="510" alt="Screen Recording 2026-05-28 132551" src="https://github.com/user-attachments/assets/67bed9f2-3658-4228-a96f-cfb52e81d8f9" />
+<img width="638" height="510" alt="Screen Recording 2026-05-28 132551" src="https://github.com/user-attachments/assets/486bac8f-808d-4b18-ba1c-936bb6e48744" />
 
 After:
 
